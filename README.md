@@ -1,6 +1,6 @@
-## 系统设计编程
+## 设计系统编程
 
-> [原文地址 https://www.programmingdesignsystems.com/](https://www.programmingdesignsystems.com/) 
+> [原文地址 https://www.programmingdesignsystems.com/](https://www.programmingdesignsystems.com/) <br>
 > 这是一本由[Rune Madsen](https://twitter.com/runemadsen)编著的介绍平面设计新基础和实际应用的免费电子书。本书还在连载中，更新动态可以关注[这里](https://twitter.com/designsystemsin)。
 > 翻译&校验：[neekychan](https://github.com/neekychan)([微博](https://weibo.com/cwlay)) 和 [freedom](https://github.com/yylifen)
 

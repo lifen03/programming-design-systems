@@ -1,8 +1,8 @@
 # Summary
 
-* [系统设计编程](README.md)
-* 0.系统设计
-    * [0.1.什么是系统设计](chapters/0.md)
+* [设计系统编程](README.md)
+* 0.设计系统
+    * [0.1.什么是设计系统](chapters/0.md)
 * 1.形状
     * [1.1 图形基础](chapters/1.1.md)
     * [1.2 基本形状](chapters/1.2.md)
